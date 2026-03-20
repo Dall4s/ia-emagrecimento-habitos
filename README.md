@@ -1,14 +1,16 @@
 # ia-emagrecimento-habitos
-
 Uso de Inteligência Artificial para emagrecimento, treino e mudança de hábitos
+
+## 🚀 Projeto desenvolvido para o desafio da DIO
+Aplicação prática de Inteligência Artificial no contexto de saúde, treino e mudança de hábitos.
+
 
 ## 📚 Curadoria de Fontes
 
 As fontes utilizadas para este estudo incluem:
-
-- https://www.who.int (Organização Mundial da Saúde)  
-- https://www.youtube.com (conteúdos sobre treino e hábitos)  
-- https://www.openai.com  
+  
+- [https://www.youtube.com (conteúdos sobre treino e hábitos)  ](https://www.youtube.com/watch?v=igQvIGq0vac)
+- https://www.openai.com  hábitos e treinos
 - https://www.healthline.com/nutrition  
 - Experiência prática com rotina de treinos  
 
@@ -128,8 +130,17 @@ Aplicação dos conhecimentos no dia a dia:
 
 <hr>
 
+## 🚀 Possíveis Aplicações
+
+- Uso de IA como personal trainer digital  
+- Criação de aplicativos de hábitos saudáveis  
+- Automatização de rotinas de treino e dieta  
+- Apoio na reeducação alimentar
+
 ## 💬 Considerações Finais
 
 Este projeto demonstra como a Inteligência Artificial pode ser uma aliada poderosa na transformação de hábitos e melhoria da qualidade de vida.
 
 <hr>
+
+  
