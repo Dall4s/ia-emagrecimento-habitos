@@ -1,5 +1,5 @@
 # ia-emagrecimento-habitos
-IA aplicada ao emagrecimento, treino e mudança de hábitos
+IA aplicada ao emagrecimento, treino e busca de novos hábitos
 Uso de Inteligência Artificial para emagrecimento, treino e mudança de hábitos
 
 ## 📚 Curadoria de Fontes
